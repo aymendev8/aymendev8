@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aymenkadri_" target="blank"><img src="https://img.shields.io/twitter/follow/aymenkadri_?logo=twitter&style=for-the-badge" alt="aymenkadri_" /></a> </p>
 
-- 🌱 Actuellement entrain de travailler sur un site de paris sportif en php et un projet nanodom en c 
+- 🌱 Actuellement entrain de travailler sur un site de paris sportif en php et sur un projet nanodom en c 
 
 - 💬 je maitrise **python, php, java, c** principalement 
 
