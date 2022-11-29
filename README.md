@@ -7,7 +7,7 @@
 
 - 🌱 Actuellement entrain de travailler sur un site de paris sportif en php et un projet nanodom en c 
 
-- 💬 je maitrise **python, php, java, c,** principalement 
+- 💬 je maitrise **python, php, java, c** principalement 
 
 - 📫 me contacter **aymenkadri798@gmail.com**
 
