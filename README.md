@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aymenkadri_" target="blank"><img src="https://img.shields.io/twitter/follow/aymenkadri_?logo=twitter&style=for-the-badge" alt="aymenkadri_" /></a> </p>
 
-- 🌱 Actuellement entrain de travailler sur un site de paris sportif en php et sur un projet nanodom en c 
+- 🌱 Actuellement entrain de travailler sur un site e-commerce ( clone de wethenew ) en symfony !  
 
 - 💬 je maitrise **python, php, java, c** principalement 
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/aymenkadri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aymenkadri_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aymen-kadri-173083227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymen-kadri" height="30" width="40" /></a>
-<a href="https://discord.gg/aymen#0008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aymen#0008" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages et logiciels :</h3>
