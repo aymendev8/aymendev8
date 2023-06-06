@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/aymenkadri_" target="blank"><img src="https://img.shields.io/twitter/follow/aymenkadri_?logo=twitter&style=for-the-badge" alt="aymenkadri_" /></a> </p>
 
-- 🌱 Actuellement entrain de travailler sur un site e-commerce ( clone de wethenew ) en symfony !  
+- 🌱 Actuellement, travaille pour New IVS en tant que développeur FullStack & Site de vente de Sneakers en React & Symfony  !  
 
-- 💬 je maitrise **python, php, java, c** principalement 
+- 💬 je maitrise **python, php, java, c, TypeScript** principalement 
 
-- 📫 me contacter **aymenkadri798@gmail.com**
+- 📫 me contacter **aymenkadri798@gmail.com** 
 
 <h3 align="left">Mes réseaux sociaux:</h3>
 <p align="left">
