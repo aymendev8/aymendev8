@@ -1,5 +1,5 @@
 <h1 align="center">👋, Je suis Aymen</h1>
-<h3 align="center">Etudiant en L2 informatique à l'université catholique de Lille</h3>
+<h3 align="center">Etudiant en L3 informatique à l'université catholique de Lille</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymendev8&label=Profile%20views&color=0e75b6&style=flat" alt="aymendev8" /> </p>
 
