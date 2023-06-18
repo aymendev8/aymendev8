@@ -7,7 +7,7 @@
 
 - 🌱 Actuellement, travaille pour New IVS en tant que développeur FullStack & Site de vente de Sneakers en React & Symfony  !  
 
-- 💬 je maitrise **python, php, java, c, TypeScript** principalement 
+- 💬 je maitrise **Python | Php | Java | C | TypeScript | JavaScript | ** principalement 
 
 - 📫 me contacter **aymenkadri798@gmail.com** 
 
